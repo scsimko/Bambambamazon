@@ -9,12 +9,12 @@ https://www.npmjs.com/package/inquirer
 
 Once the following steps are complete, you need to create the SQL database. Start answer and run the Bamazon.SQL file. 
 
-![screenshot1](/scrrenshot1.png)
+![screenshot1](/screenshot1.png)
 
 Then you will need to update the bamazonCustomer.js with your database information.
 
-![screenshot2](/scrrenshot2.png)
+![screenshot2](/screenshot2.png)
 
 Run the file in the terminal and follow the prompts.
 
-![screenshot3](/scrrenshot3.png)
+![screenshot3](/screenshot3.png)
