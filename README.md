@@ -4,7 +4,8 @@ Bamazon is a command line application that you can place orders from an online s
 
 To run the application clone the repository and install the following packages:
 
-https://www.npmjs.com/package/mysql
+https://www.npmjs.com/package/mysql 
+
 https://www.npmjs.com/package/inquirer
 
 Once the following steps are complete, you need to create the SQL database. Start answer and run the Bamazon.SQL file. 
