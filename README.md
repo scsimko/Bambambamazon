@@ -1,4 +1,5 @@
-##Bamazon
+
+# Bamazon
 
 Bamazon is a command line application that you can place orders from an online storefront.
 
