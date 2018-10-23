@@ -66,7 +66,7 @@ function purchaseFromDatabase(ID, quantityOrdered) {
         } else {
             console.log("Insufficient quantity!");
         };
-        connection.end();
+        displayProducts();
     });
 
 
